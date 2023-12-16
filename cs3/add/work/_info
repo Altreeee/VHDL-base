@@ -1,0 +1,91 @@
+m255
+K3
+13
+cModel Technology
+Z0 dD:\Desktop\1\add
+Eaddc1
+Z1 w1685011693
+Z2 DPx4 ieee 11 numeric_std 0 22 =NSdli^?T5OD8;4F<blj<3
+Z3 DPx4 ieee 14 std_logic_1164 0 22 GH1=`jDDBJ=`LM;:Ak`kf2
+Z4 8ADDC1.vhd
+Z5 FADDC1.vhd
+l0
+L5
+VVZzT9WBRF5BB:K3AjhK;K2
+Z6 OV;C;6.5b;42
+31
+Z7 o-93 -O0
+Z8 tExplicit 1
+!s100 XoVjMR9AL^5HU5AYU8`;?2
+Adataflow
+R2
+R3
+Z9 DEx4 work 5 addc1 0 22 VZzT9WBRF5BB:K3AjhK;K2
+l13
+L12
+V=K^WgY@S4QkT2m8RllcQI3
+R6
+31
+Z10 Mx2 4 ieee 14 std_logic_1164
+Z11 Mx1 4 ieee 11 numeric_std
+R7
+R8
+!s100 =O52<I@8A;Y=b^la3TIWW3
+Eaddc4
+Z12 w1685011222
+R2
+R3
+Z13 8ADDC4.vhd
+Z14 FADDC4.vhd
+l0
+L6
+V4C^aQa1`[0_H;C6Z_<_Wn3
+R6
+31
+R7
+R8
+!s100 eG_BF5g5bhk;E2>c0A;gj1
+Astruct
+R9
+R2
+R3
+Z15 DEx4 work 5 addc4 0 22 4C^aQa1`[0_H;C6Z_<_Wn3
+l16
+L14
+VcBLFFH^?XOcB7Daz@mfEf1
+!s100 K<[l9mjQe7>AiOSIE4[T_2
+R6
+31
+R10
+R11
+R7
+R8
+Eaddc4_tb
+Z16 w1160709880
+R2
+R3
+Z17 8ADDC4_tb.vhd
+Z18 FADDC4_tb.vhd
+l0
+L6
+V;F>KeFRbEgAnk]1i1m_l63
+!s100 4HIfNJ;hO5cfMdY2iUo_K3
+R6
+31
+R7
+R8
+Abench
+R15
+R2
+R3
+Z19 DEx4 work 8 addc4_tb 0 22 ;F>KeFRbEgAnk]1i1m_l63
+l21
+L11
+Z20 Vn8g_a=0k3XOWXRj1XB<T_2
+Z21 !s100 :E6VaVOA<`R;P:``kQ:MD1
+R6
+31
+R10
+R11
+R7
+R8
