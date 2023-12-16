@@ -1,0 +1,89 @@
+m255
+K3
+13
+cModel Technology
+Z0 dD:\Desktop\ku\VHDL\shudian\self\cs10
+Eboard
+Z1 w1685358080
+Z2 DPx4 ieee 11 numeric_std 0 22 =NSdli^?T5OD8;4F<blj<3
+Z3 DPx4 ieee 14 std_logic_1164 0 22 GH1=`jDDBJ=`LM;:Ak`kf2
+Z4 8board.vhd
+Z5 Fboard.vhd
+l0
+L5
+VZJHkG_l^fT8KJ2`DO2GS@1
+Z6 OV;C;6.5b;42
+31
+Z7 o-93 -O0
+Z8 tExplicit 1
+!s100 l7AkdXIS]cKP:odC]Y4eO1
+Astruct
+Z9 DEx4 work 7 ramchip 0 22 @LAWTKC;9<cfZ8FQNzbUQ2
+R2
+R3
+Z10 DEx4 work 5 board 0 22 ZJHkG_l^fT8KJ2`DO2GS@1
+l25
+L19
+V:_XcBSKXX;fmM_LdWV>0E3
+R6
+31
+Z11 Mx2 4 ieee 14 std_logic_1164
+Z12 Mx1 4 ieee 11 numeric_std
+R7
+R8
+!s100 >;Q?6cn::=f87fk6l^KI?0
+Eboard_tb
+Z13 w1685267294
+Z14 8board_tb.vhd
+Z15 Fboard_tb.vhd
+l0
+L4
+VZZDM2=;UH?zU]NeU7=i>G0
+!s100 9:ERm[PKh:IeBBQcj9=bg2
+R6
+31
+R7
+R8
+Abench
+R10
+Z16 DEx4 work 8 board_tb 0 22 ZZDM2=;UH?zU]NeU7=i>G0
+R2
+R3
+l18
+L11
+Z17 Vz8Y4^AJ>o1^EE2M_h_U[U1
+Z18 !s100 8eR7iYa8OK^_lAe]IfDg63
+R6
+31
+R11
+R12
+R7
+R8
+Eramchip
+Z19 w1685358673
+R2
+R3
+Z20 8ramchip.vhd
+Z21 Framchip.vhd
+l0
+L7
+V@LAWTKC;9<cfZ8FQNzbUQ2
+R6
+31
+R7
+R8
+!s100 cCWKV=aKUZ=zWBY6d:l@E0
+Abehaviour
+R2
+R3
+R9
+l23
+L19
+VH[kV?Ao902[eAXTDmIJKK0
+!s100 dW5SYMbUVSjGU>aCg6?TK3
+R6
+31
+R11
+R12
+R7
+R8
