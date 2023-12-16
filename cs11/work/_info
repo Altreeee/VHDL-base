@@ -1,0 +1,55 @@
+m255
+K3
+13
+cModel Technology
+Z0 dD:\Desktop\ku\VHDL\shudian\self\cs11
+Efsm
+Z1 w1685433856
+Z2 DPx4 ieee 14 std_logic_1164 0 22 GH1=`jDDBJ=`LM;:Ak`kf2
+Z3 8fsm.vhd
+Z4 Ffsm.vhd
+l0
+L6
+Ve[GiP>IQ[kFGKhmXcGJ?=2
+Z5 OV;C;6.5b;42
+31
+Z6 o-93 -O0
+Z7 tExplicit 1
+!s100 7KLO=]c?eV4UT8jJiaLcd2
+Artl
+R2
+Z8 DEx4 work 3 fsm 0 22 e[GiP>IQ[kFGKhmXcGJ?=2
+l16
+L13
+VRd@R4B`Md0EEfI5ZI9GLP0
+R5
+31
+Z9 Mx1 4 ieee 14 std_logic_1164
+R6
+R7
+!s100 7R^;I6ed]0?3]C3M9C8cH1
+Efsmtb
+Z10 w1385697826
+Z11 8fsmtb.vhd
+Z12 Ffsmtb.vhd
+l0
+L3
+VF9Hc7gPXo9VDe3UlAGd0I1
+!s100 EN5zNm8?NTLXN4`:zFT603
+R5
+31
+R6
+R7
+Aa1
+R8
+Z13 DEx4 work 5 fsmtb 0 22 F9Hc7gPXo9VDe3UlAGd0I1
+R2
+l22
+L10
+Z14 V5Om;7Q6@;h25>@mD@^@cC0
+Z15 !s100 7:G3XOB=anM:ool4ReK?=0
+R5
+31
+R9
+R6
+R7
