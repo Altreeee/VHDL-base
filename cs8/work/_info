@@ -1,0 +1,88 @@
+m255
+K3
+13
+cModel Technology
+Z0 dD:\Desktop\ku\VHDL\shudian\self\cs8
+Ecounter
+Z1 w1685099025
+Z2 DPx4 ieee 11 numeric_std 0 22 =NSdli^?T5OD8;4F<blj<3
+Z3 DPx4 ieee 14 std_logic_1164 0 22 GH1=`jDDBJ=`LM;:Ak`kf2
+Z4 8counter.vhd
+Z5 Fcounter.vhd
+l0
+L6
+V:gC1Jka7O5CR`dalORI4g3
+Z6 OV;C;6.5b;42
+31
+Z7 o-93 -O0
+Z8 tExplicit 1
+!s100 alo`HO]a==FZX83?a343G2
+Aringcounter
+R2
+R3
+Z9 DEx4 work 7 counter 0 22 :gC1Jka7O5CR`dalORI4g3
+l71
+L69
+Vh?Wm0ghVz?Eh0JFaGk@9c2
+R6
+31
+Z10 Mx2 4 ieee 14 std_logic_1164
+Z11 Mx1 4 ieee 11 numeric_std
+R7
+R8
+!s100 FM]CaOEj8gd4j`Y`Kg66F3
+Artl2
+R2
+R3
+R9
+l42
+L40
+VN>9TDQd>SmX9CXi8PNGc[2
+R6
+31
+R10
+R11
+R7
+R8
+!s100 Wozln8?Z:C3bd?WkFoPj<2
+Artl
+R2
+R3
+R9
+l15
+L13
+V6zfE8TOOj5ZLBCY8e1n8g2
+R6
+31
+R10
+R11
+R7
+R8
+!s100 9cLVoHH7FLUJ<hz@Qhco]0
+Ecounter_tb
+Z12 w1222947220
+Z13 8counter_tb.vhd
+Z14 Fcounter_tb.vhd
+l0
+L3
+V`d`T=o7_dIcD_?o8T=4V80
+!s100 WUW6X:_>zfkhmQCV2Y3h90
+R6
+31
+R7
+R8
+Abench
+R2
+R9
+DEx4 work 10 counter_tb 0 22 `d`T=o7_dIcD_?o8T=4V80
+R3
+l18
+L10
+Vge:6=6`=<1Ve[e87a_Ljn3
+!s100 gfP6IUcE5f:eJ8:B;=IlK3
+R6
+31
+R10
+R11
+R7
+R8
